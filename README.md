@@ -129,8 +129,7 @@ The script will:
 
 ## License
 
-[Your chosen license]
-
+MIT License
 ## Contributing
 
-[Your contribution guidelines] 
+Please Feel Free to Fork and Contribute
