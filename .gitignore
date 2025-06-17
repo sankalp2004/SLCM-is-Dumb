@@ -1,0 +1,61 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+# Logs
+logs/
+*.log
+
+# Output data
+output/
+screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+scraper_env/
+
+# Environment variables
+.env
+
+# Python virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and debug files
+*.log
+scraper.log
+debug.log
+
+# Screenshots and temporary files
+*.png
+*.jpg
+*.jpeg
+captcha_*.png
+gradesheet_*.png
+navigation_error_debug.png
+login_page.png
+homepage_screenshot.png
+
+# Chrome driver
+chromedriver.exe
+chrome-win32/
+
+# Ollama model files
+.ollama/ 

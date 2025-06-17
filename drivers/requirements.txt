@@ -1,0 +1,14 @@
+# Web scraping essentials
+selenium==4.15.0
+beautifulsoup4==4.12.2
+requests>=2.24.0,<2.32.0
+pytesseract==0.3.10
+pillow==10.4.0
+opencv-python==4.8.1.78
+amazoncaptcha==0.5.0
+
+# Compatible dependency versions
+certifi==2024.6.2
+urllib3==1.26.18
+tiktoken==0.5.2
+numpy==1.26.4
