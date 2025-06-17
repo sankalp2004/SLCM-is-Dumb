@@ -58,4 +58,6 @@ chromedriver.exe
 chrome-win32/
 
 # Ollama model files
-.ollama/ 
+.ollama/ scraper_env/ 
+__pycache__/ 
+*.pyc 
