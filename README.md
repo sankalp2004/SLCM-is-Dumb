@@ -1,6 +1,6 @@
 # SLCM CGPA Scraper
 Are you a Manipal student? Do you hate SLCM? Do you find the UI stupid and confusing and feel exhausted after navigating the website? Here's a Python-based web scraper for extracting CGPA information from the SLCM (Student Life Cycle Management) portal using Selenium and advanced OCR techniques.
-We could add other feature to this to the point we can extract everything from SLCM without ever navigating through it again.
+We could add other features to this so that eventually we can extract everything from SLCM without ever navigating through it again.
 
 ## Features
 
