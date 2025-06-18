@@ -406,14 +406,12 @@ Project Structure:
 ├── scraper.py              # Main scraper implementation
 ├── config.py               # Configuration settings
 ├── utils.py                # Utility functions
-├── exceptions.py           # Custom exception classes
 ├── check.py                # Diagnostic tools
 ├── element_discovery.py    # Element discovery utilities
 ├── .env                    # Environment variables
 ├── requirements.txt        # Python dependencies
 └── documentation/          # Technical documentation
     ├── How_This_Works.md    # Process documentation
-    └── architecture.md     # System architecture
 ```
 
 ## 9. CONFIGURATION PARAMETERS
