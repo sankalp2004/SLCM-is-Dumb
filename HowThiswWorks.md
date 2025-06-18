@@ -2,7 +2,7 @@
 
 This file contains comprehensive technical documentation for the SLCM CGPA Scraper system, including all strategies, processes, and implementation details.
 
-**Author:** SLCM Automation Team  
+**Author:** Sankalp Jain
 **Version:** 1.0  
 **Date:** 2025-06-17
 
